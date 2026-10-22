@@ -8,7 +8,7 @@ class area{
     }
 }
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         area multi= new area();
         System.out.println(multi.area(11));
