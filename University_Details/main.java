@@ -58,7 +58,7 @@ class Teacher extends UniversityMember {
     }
 }
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Student s1 = new Student("Hassan", 19, "Male", "BSCS", 1, 3.45);
         s1.printStudentDetails();
